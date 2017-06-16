@@ -1,4 +1,5 @@
 import {getTodoList} from '../api/api';
+const a = 'a';
 export const getTodo = ({commit}) => {
   return new Promise((resolve) => {
     getTodoList().then(res => {
