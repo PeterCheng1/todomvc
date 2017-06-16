@@ -10,6 +10,7 @@
         <span class="icon-trash"></span>
       </a>
     </div>
+    <span></span>
   </transition>
 </template>
 <script>
