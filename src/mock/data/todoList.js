@@ -1,5 +1,4 @@
  import Mock from 'mockjs';
- let mock = 'mock';
  let Todos = [];
  let COUNT = COUNT = [1, 2, 3, 4, 5]; // 定义我们需要数量
  for (let i = 1; i <= COUNT.length; i++) {
