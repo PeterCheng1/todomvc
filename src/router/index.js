@@ -18,5 +18,3 @@ export default new Router({
     }
   ]
 });
-
-let mock = 'route';
