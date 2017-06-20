@@ -3,3 +3,7 @@
 
 # 技术架构 
 > vue2.0 + vue-router + axios + mock.js + less 
+
+# 项目效果
+
+![运行效果](./static/gif/todo-app.gif)
