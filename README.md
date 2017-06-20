@@ -7,3 +7,15 @@
 # 项目效果
 
 ![运行效果](./static/gif/todo-app.gif)
+
+# 运行
+
+```
+# 更新依赖包
+npm install
+# 本地运行 at localhost:8080
+npm run dev
+# 打包
+npm run build
+
+```
